@@ -4,7 +4,7 @@
  * See LICENSE file for license details.
  */
 
-namespace Bangerkuwranger\RemoveAdminHtml\Framework\View\Page
+namespace Bangerkuwranger\RemoveAdminHtml\Framework\View\Page;
 
 use Magento\Framework\App;
 use Magento\Framework\View;

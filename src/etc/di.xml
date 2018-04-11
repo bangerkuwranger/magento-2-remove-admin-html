@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!-- 
+/**
+ * Copyright © 2018 Chad A. Carino. All rights reserved.
+ * See LICENSE file for license details.
+ */
+ -->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:ObjectManager/etc/config.xsd">
+	<preference for="Magento\Framework\View\Page\Config" type="Bangerkuwranger\RemoveAdminHtml\Framework\View\Page\Config" />
+</config>
